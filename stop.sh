@@ -1,3 +1,3 @@
 #!/bin/bash
 apt-get update
-service apache2 stop
+apt-get insatll php5.6
